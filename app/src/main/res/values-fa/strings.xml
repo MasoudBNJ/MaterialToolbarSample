@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="first_menu">منوی اول</string>
+    <string name="second_menu">منوی دوم</string>
+    <string name="third_menu">منوی سوم</string>
+    <string name="share">اشتراک</string>
+    <string name="delete">حذف</string>
+    <string name="more">بیشتر</string>
+    <string name="content_description_share">به اشتراک گذاری پیام</string>
+    <string name="content_description_delete">حذف پیام</string>
+    <string name="content_description_more">بیشتر</string>
+
+</resources>

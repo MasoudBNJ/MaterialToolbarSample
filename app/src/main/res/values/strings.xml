@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">MaterialToolbarTest</string>
+    <string name="first_menu">First menu</string>
+    <string name="second_menu">Second menu</string>
+    <string name="third_menu">Third menu</string>
+
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="more">More</string>
+    <string name="content_description_share">Share the message</string>
+    <string name="content_description_delete">Delete the message</string>
+    <string name="content_description_more">More</string>
+</resources>
